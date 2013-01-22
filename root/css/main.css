@@ -1,0 +1,13 @@
+body {
+  background: url("../img/hello_world.png") no-repeat;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+  line-height: 120%;
+  padding-top: 200px;
+  font-family: Arial, sans-serif;
+  letter-spacing: -0.05em;
+}
