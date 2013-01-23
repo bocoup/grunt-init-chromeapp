@@ -6,7 +6,7 @@ Scaffold a [Google Chrome packaged app](https://developer.chrome.com/stable/apps
 
 ## Installation
 
-* Install `grunt-cli` and `grunt-init` latest versions. If `grunt` is already globally unstalled, uninstall it (`npm uninstall -g grunt`). You only should have `grunt-cli`, which uses the version of `grunt` specified in a project's `package.json`.
+* Install `grunt-cli` and `grunt-init` latest versions. If `grunt` is already globally installed, uninstall it (`npm uninstall -g grunt`). You only should have `grunt-cli`, which uses the version of `grunt` specified in a project's `package.json`.
 * `npm install -g grunt-init@0.2.0rc7`
 * `npm install -g grunt-cli`
 
