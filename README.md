@@ -10,7 +10,7 @@ Scaffold a [Google Chrome packaged app](https://developer.chrome.com/stable/apps
 * `npm install -g grunt-init@0.2.0rc7`
 * `npm install -g grunt-cli`
 
-Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:	
+Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
 git clone git@github.com:bocoup/grunt-init-chromeapp.git ~/.grunt-init/chromeapp
