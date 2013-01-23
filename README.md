@@ -1,6 +1,6 @@
 # grunt-init-chromeapp
 
-Scaffold a [Google Chrome pacakged app](https://developer.chrome.com/stable/apps/about_apps.html) with [grunt-init][]
+Scaffold a [Google Chrome packaged app](https://developer.chrome.com/stable/apps/about_apps.html) with [grunt-init][]
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
